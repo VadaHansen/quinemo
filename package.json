@@ -1,0 +1,28 @@
+{
+  "name": "quinemo",
+  "description": "Ethereum ethers.js vuex store module generator plugin for vue-cli 3. Build dapps!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VadaHansen/quinemo.git"
+  },
+  "author": "EvalynFriesen",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "hic",
+    "adipisci",
+    "web3",
+    "ullam",
+    "quasi",
+    "vue",
+    "vitae",
+    "mollitia",
+    "voluptatum"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
